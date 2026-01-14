@@ -4,28 +4,29 @@ layout: home
 
 ## Course Overview
 
-Welcome to **Responsible AI**! This course examines the ethical, social, and technical dimensions of artificial intelligence systems. As AI becomes increasingly integrated into society, it is crucial for developers, researchers, and practitioners to understand how to build systems that are fair, transparent, accountable, and aligned with human values.
+Welcome to **Natural Language Processing**! This course introduces students to the fundamental concepts, algorithms, and techniques for processing and understanding human language using computational methods. Students will learn both classical and modern approaches to NLP, with a focus on practical applications and state-of-the-art deep learning methods.
 
 ### What You Will Learn
 
-- **AI Ethics & Philosophy**: Explore fundamental ethical frameworks and their application to AI systems
-- **Fairness & Bias**: Understand algorithmic bias, fairness metrics, and techniques for building equitable AI
-- **Transparency & Explainability**: Learn methods for making AI systems interpretable and explainable
-- **Privacy & Security**: Study privacy-preserving techniques and security considerations in AI
-- **Accountability & Governance**: Examine policy frameworks, regulations, and best practices for AI governance
-- **Societal Impact**: Analyze the broader social, economic, and political implications of AI technologies
+- **Text Processing & Representation**: Learn tokenization, word embeddings, and text vectorization techniques
+- **Language Models**: Understand N-gram models, neural language models, and transformer architectures
+- **Sequence Modeling**: Study RNNs, LSTMs, and attention mechanisms for sequence-to-sequence tasks
+- **NLP Applications**: Explore sentiment analysis, named entity recognition, machine translation, and question answering
+- **Modern NLP**: Work with pre-trained models like BERT, GPT, and other large language models
+- **Practical Implementation**: Hands-on experience with popular NLP libraries and frameworks
 
 ### Course Format
 
-- **Lectures**: Weekly lectures covering theoretical foundations and real-world case studies
-- **Discussions**: Interactive sessions analyzing current AI ethics issues and controversies
-- **Assignments**: Hands-on projects applying responsible AI principles to practical problems
-- **Guest Speakers**: Industry experts and researchers sharing insights from the field
+- **Lectures**: Weekly lectures covering theoretical foundations and algorithmic approaches
+- **Labs**: Hands-on sessions implementing NLP algorithms and working with real datasets
+- **Assignments**: Programming assignments applying NLP techniques to practical problems
+- **Project**: A final project where students build and evaluate an NLP system
 
 ### Prerequisites
 
-- Basic understanding of machine learning and AI concepts
-- Programming experience (Python preferred)
-- Interest in ethical and societal issues
+- Basic understanding of machine learning concepts
+- Programming experience in Python
+- Familiarity with linear algebra and probability
+- Experience with deep learning frameworks (PyTorch or TensorFlow) is helpful but not required
 
 For course announcements and updates, please check this website regularly or join our communication channels.
