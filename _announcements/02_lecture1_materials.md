@@ -1,4 +1,4 @@
 ---
-date: 2025-08-30T10:00:00+8:00
+date: 2026-02-10T10:00:00+8:00
 ---
-**First lecture slides uploaded!** Lecture 1 slides and reading materials are now available. See you in class on Monday!
+**Course starting soon!** Welcome to NLP! Please review the syllabus and prerequisites. First lecture on Introduction to NLP will be on February 16th.
