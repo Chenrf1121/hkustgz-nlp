@@ -1,17 +1,17 @@
 instructors:
   - name: Sihong Xie
-    profile_pic: /_images/pp/instructor.jpg
+    profile_pic: /_images/pp/sihongxie.jpg
     webpage: https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/XIE-Sihong/sihongxie
 
 teaching_assistants:
   - name: Yazheng Liu
-    profile_pic: /_images/pp/ta1.jpg
+    profile_pic: /_images/pp/yazheng.jpg
     webpage:
 
   - name: Yue Chang
-    profile_pic: /_images/pp/ta2.jpg
+    profile_pic: /_images/pp/yuechang.jpg
     webpage:
 
   - name: Rufeng Chen
-    profile_pic: /_images/pp/ta3.jpg
+    profile_pic: /_images/pp/rufeng.jpg
     webpage:
