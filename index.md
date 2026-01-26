@@ -40,6 +40,20 @@ layout: home
 - **Assignments**: Programming assignments applying NLP techniques to practical problems
 - **Project**: A final project where students build and evaluate an NLP system
 
+## Office Hours
+
+### TA Team
+
+- **Yazheng Liu** (yliu533@connect.hkust-gz.edu.cn)
+- **Rufeng Chen** (rchen514@connect.hkust-gz.edu.cn)
+- **Yue Chang** (ychang500@connect.hkust-gz.edu.cn)
+
+### Office Hours Schedule
+
+| Monday | Tuesday | Thursday | Friday |
+|--------|---------|----------|--------|
+| Sihong Xie<br/>13:30-15:30PM<br/>W4 303 | Yazheng Liu<br/>15-17PM<br/>E2 501 | Rufeng Chen<br/>15-17PM<br/>E2 501 | Yue Chang<br/>14-16PM<br/>E2 501 |
+
 ### Prerequisites
 
 - Basic understanding of machine learning and AI concepts
