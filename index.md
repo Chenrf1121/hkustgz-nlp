@@ -2,10 +2,6 @@
 layout: home
 ---
 
-## Course Description
-
-This course provides students with a deep understanding of how computational systems process and generate human languages. The curriculum bridges foundational linguistic theories with cutting-edge deep learning techniques, moving from classic N-gram models and Hidden Markov Models to modern Transformer architectures and Large Language Models (LLMs). The course explores critical topics such as tokenization, embeddings, syntactic parsing, and machine translation, while also diving into advanced contemporary subjects like Reinforcement Learning from Human Feedback (RLHF), Retrieval-Augmented Generation (RAG), and model compression. Assessments include in-class quizzes, a closed-book final exam, one homework, one individual coding project, and a significant final team research project that includes a poster presentation and technical report. Students will gain the expertise necessary to build, evaluate, and analyze sophisticated NLP systems capable of addressing real-world challenges in the rapidly evolving AI landscape.
-
 **Syllabus**: [Download PDF](/hkustgz-nlp/static_files/syllabus.pdf)
 
 ## Course Overview
