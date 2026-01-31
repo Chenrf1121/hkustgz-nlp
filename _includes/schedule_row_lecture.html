@@ -10,17 +10,24 @@
     </div>
 </div>
 <div class="col col-4 markdown-content" data-label="Course Material">
-    <!-- {% if include.event.suggested_readings %}
-    <p style="margin-bottom: 2px">Suggested Readings:</p>
+    {% if include.event.readings %}
+    <p style="margin-bottom: 2px">Further Readings:</p>
     <ul>
-        {% for m in include.event.suggested_readings %}
-        <li class="raw_li">{% if m.url %}<a href="{{ m.url }}">{{ m.title }}</a>{% else %}{{ m.title }}{%
-            endif %}</li>
-
+        {% for m in include.event.readings %}
+        <li class="raw_li">
+            {% if m.url %}
+                <a href="{{ m.url }}">{{ m.title }}</a>
+            {% else %}
+                {{ m.title }}
+            {% endif %}
+            {% if m.authors %} - {{ m.authors }}{% endif %}
+            {% if m.year %} ({{ m.year }}){% endif %}
+            {% if m.note %}<br/><em>{{ m.note }}</em>{% endif %}
+        </li>
         {% endfor %}
     </ul>
-    {% endif %} -->
+    {% endif %}
     {% if include.event.content != '' %}
-    {{ event.content }}
+    {{ include.event.content }}
     {% endif %}
 </div>
