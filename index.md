@@ -38,7 +38,7 @@ layout: home
 
 - **Lectures**: Weekly lectures covering theoretical foundations and algorithmic approaches
 - **Assignments**: Programming assignments applying NLP techniques to practical problems
-- **Project**: A final project where students build and evaluate an NLP system
+- **Project**: A final project where students build and evaluate NLP algorithms and models regarding the latest NLP research
 
 ## Office Hours
 
