@@ -4,5 +4,5 @@ date: 2026-03-25
 title: LoRA
 tldr: "Low-Rank Adaptation for efficient model fine-tuning"
 ---
-Homework grade release
+- Homework grade release
 ---
