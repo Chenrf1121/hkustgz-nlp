@@ -19,12 +19,3 @@ readings:
     note: "Regarding words and tokens"
 ---
 
-**Important Deadlines:**
-- Homework assignment released (Feb 28, 2026)
-- Individual coding project released (Mar 11, 2026)
-- Final team research project released (Mar 11, 2026)
-
-**Quiz Topics:**
-- Review slides on MLE (pages 23-26)
-- Probability distributions (Bernoulli, Categorical)
-- Independence of random variables
