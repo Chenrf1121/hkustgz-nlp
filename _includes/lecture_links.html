@@ -1,11 +1,29 @@
 
+    {% if include.lecture.slides %}
+    [<a title="Download slides" href="
+    {% if include.lecture.slides contains '://' %}
+      {{ include.lecture.slides }}
+    {% else %}
+      {{ include.lecture.slides | prepend: site.baseurl }}
+    {% endif %}">slides</a>]
+    {% endif %}
+
+    {% if include.lecture.demo %}
+    [<a title="Download demo" href="
+    {% if include.lecture.demo contains '://' %}
+      {{ include.lecture.demo }}
+    {% else %}
+      {{ include.lecture.demo | prepend: site.baseurl }}
+    {% endif %}">demo</a>]
+    {% endif %}
+
     {% if include.lecture.links %}
     {% for link in include.lecture.links %}
     [<a title="Download {{ link.name }}" href="
     {% if link.url contains '://' %}
-      {{ link.url }} 
+      {{ link.url }}
     {% else %}
-      {{ link.url | prepend: site.baseurl }} 
+      {{ link.url | prepend: site.baseurl }}
     {% endif %}">{{ link.name }}</a>]
     {% endfor %}
     {% endif %}
