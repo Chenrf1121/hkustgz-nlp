@@ -8,11 +8,9 @@
     <div class="schedule-lecture-links">
     {% include lecture_links.html lecture=include.event %}
     </div>
-</div>
-<div class="col col-4 markdown-content" data-label="Course Material">
     {% if include.event.readings %}
-    <p style="margin-bottom: 2px">Further Readings:</p>
-    <ul>
+    <p style="margin-bottom: 2px; margin-top: 8px; font-weight: bold;">Further Readings:</p>
+    <ul style="font-size: 0.9em; margin-left: 20px;">
         {% for m in include.event.readings %}
         <li class="raw_li">
             {% if m.url %}
@@ -27,6 +25,8 @@
         {% endfor %}
     </ul>
     {% endif %}
+</div>
+<div class="col col-4 markdown-content" data-label="Course Material">
     {% if include.event.content != '' %}
     {{ include.event.content }}
     {% endif %}
