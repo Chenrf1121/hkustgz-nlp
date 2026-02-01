@@ -417,8 +417,8 @@ a.tosu {
     border-radius: 20%;
     margin-bottom: 2px;
 
-    object-fit: cover;
-    object-position: center right;
+    object-fit: contain;
+    object-position: center center;
 }
 
 .announcement-box {
