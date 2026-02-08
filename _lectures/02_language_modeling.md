@@ -12,5 +12,6 @@ readings:
   - title: "GloVe: Global Vectors for Word Representation."
     url: https://en.wikipedia.org/wiki/Natural_language_processing
     type: "J Pennington, etc. 2014."
-  - url: https://github.com/facebookresearch/fastText
+  - title: "fastText"
+    url: https://github.com/facebookresearch/fastText
 ---
