@@ -3,5 +3,5 @@ type: lecture
 date: 2026-04-22
 title: Inference - KV cache
 tldr: "Efficient inference techniques using KV caching"
-slides: /hkustgz-nlp/static_files/slides/lecture-22.pdf
+slides: /hkustgz-nlp/static_files/slides/lecture-20.pdf
 ---

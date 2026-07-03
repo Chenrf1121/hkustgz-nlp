@@ -3,7 +3,7 @@ type: lecture
 date: 2026-03-25
 title: LoRA
 tldr: "Low-Rank Adaptation for efficient model fine-tuning"
-slides: /hkustgz-nlp/static_files/slides/lecture-15.pdf
+slides: /hkustgz-nlp/static_files/slides/lecture-14.pdf
 ---
 **Important Deadlines:**
 - Homework grade release
