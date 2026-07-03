@@ -2,7 +2,7 @@
 layout: home
 ---
 
-**Syllabus**: [Download PDF](/hkustgz-nlp/static_files/syllabus.pdf)
+**Syllabus**: [Download PDF](/static_files/syllabus.pdf)
 
 ## What You Will Learn
 

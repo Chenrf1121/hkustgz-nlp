@@ -3,8 +3,8 @@ type: lecture
 date: 2026-01-28
 title: Language modeling and N-Grams
 tldr: "Introduction to language models and N-gram models for text prediction"
-slides: /hkustgz-nlp/static_files/slides/lecture-2.pdf
-demo: /hkustgz-nlp/static_files/demos/demo-lecture-2.ipynb
+slides: /static_files/slides/lecture-2.pdf
+demo: /static_files/demos/demo-lecture-2.ipynb
 readings:
   - title: "Distributed Representations of Words and Phrases and their Compositionality."
     authors: "Tomas Mikolov, etc."

@@ -3,7 +3,7 @@ type: lecture
 date: 2026-03-23
 title: Supervised Fine-Tuning
 tldr: "Fine-tuning pretrained models on specific tasks"
-slides: /hkustgz-nlp/static_files/slides/lecture-13.pdf
+slides: /static_files/slides/lecture-13.pdf
 readings:
   - title: "High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications"
     authors: "John Wright, Yi Ma"
